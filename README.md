@@ -1,6 +1,6 @@
 # P&G Stock Risk Analysis — CAPM & Fama-French Three-Factor Model
 
-**Team Project — NYU Tandon, Financial Analysis**
+**Team Project — NYU Tandon, Statistics for Data Analysts**
 Shubh Patel, Domenico Nigro, Divya Mudliar, Ziang Lu
 
 A quantitative asset pricing analysis of Procter & Gamble (NYSE: PG) using the Capital Asset Pricing Model (CAPM) and the Fama-French Three-Factor Model, built on 144 months of return data and tested through formal statistical hypothesis testing.
@@ -126,7 +126,7 @@ All pairwise correlations between MKT, SMB, and HML were below 0.30 — no probl
 
 ## About
 
-Completed as a team project for the Financial Analysis course at NYU Tandon School of Engineering.
+Completed as a team project for the Statistics for Data Analysts course at NYU Tandon School of Engineering.
 
 **Shubh Patel**
 MS Management of Technology — NYU Tandon
